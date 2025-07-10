@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SpaceWorld
+comment1.params=
+comment1.target=SpaceWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawnAsteroid()
+comment4.params=points
+comment4.target=void\ addScore(int)
+comment5.params=
+comment5.target=void\ loseLife()
+comment6.params=
+comment6.target=void\ checkLevelUp()
+comment7.params=damage
+comment7.target=greenfoot.Actor\ createLaser(int)
+comment8.params=
+comment8.target=void\ gameOver()
+numComments=9

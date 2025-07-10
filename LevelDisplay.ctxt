@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LevelDisplay
+comment1.params=level
+comment1.target=LevelDisplay(int)
+comment2.params=newLevel
+comment2.target=void\ updateLevel(int)
+numComments=3

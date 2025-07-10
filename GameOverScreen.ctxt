@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GameOverScreen
+comment1.params=finalScore
+comment1.target=GameOverScreen(int)
+numComments=2

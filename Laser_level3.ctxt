@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Laser_level3
+comment1.params=damage
+comment1.target=Laser_level3(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkCollision()
+numComments=4
